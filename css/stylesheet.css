@@ -1,0 +1,19 @@
+body{
+    background-color: #fff8cd;
+}
+.header {
+    padding: 10px 16px;
+    background: #ebebeb;
+    color: #16697a;
+    text-align: center;
+    list-style-type: none;
+}
+div{
+    background-color: #ff9642;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
