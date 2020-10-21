@@ -46,3 +46,14 @@ a:active {
 a:visited {
     color:silver;
 }
+.heading{
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background: #ebebeb;
+        color: #16697a;
+        text-align: center;
+        list-style-type: none;
+        font-family: 'Roboto';
+    }
+}
